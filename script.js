@@ -27,8 +27,8 @@ scene.add(axesHelper);
 
 // const sphere = new THREE.SphereGeometry();
 // const object = new THREE.Mesh( sphere, new THREE.MeshBasicMaterial( 0xff0000 ) );
-const frame = new THREE.BoxHelper( geometry, 0xffff00 );
-scene.add( frame );
+// const frame = new THREE.BoxHelper( geometry, 0xffff00 );
+// scene.add( frame );
 
 // --- Main part, load and parse SVG
 // ---------------------------------
